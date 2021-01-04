@@ -1,0 +1,9 @@
+[submodule "SmartphoneToVirtuality-server"]
+	path = SmartphoneToVirtuality-server
+	url = https://github.com/8000ff/SmartphoneToVirtuality-server
+[submodule "SmartphoneToVirtuality-sensor"]
+	path = SmartphoneToVirtuality-sensor
+	url = https://github.com/8000ff/SmartphoneToVirtuality-sensor
+[submodule "S2VUnityBinding"]
+	path = S2VUnityBinding
+	url = git@github.com:8000ff/S2VUnityBinding.git
